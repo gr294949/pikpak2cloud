@@ -21,11 +21,11 @@ config.json文件内容
   "token_expires_in": 48,
   "database": {
     "type": "postgres",
-    "host": "xxxxxx",
+    "host": "us-east-1.fa4c3ed6-c2de-4e05-9a82-dfacfcb017dc.aws.ybdb.io",
     "port": 5433,
-    "user": "xxxxx",
-    "password": "xxxxxx",
-    "name": "xxxxxx",
+    "user": "admin",
+    "password": "WYQRfE7aZUDU93OePPhSMNjADvX_-w",
+    "name": "my-cluster",
     "db_file": "data/data.db",
     "table_prefix": "x_",
     "ssl_mode": "prefer"
