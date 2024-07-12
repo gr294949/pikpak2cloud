@@ -25,7 +25,7 @@ config.json文件内容
     "port": 5433,
     "user": "admin",
     "password": "WYQRfE7aZUDU93OePPhSMNjADvX_-w",
-    "name": "my-cluster",
+    "name": "my-cluster-n1",
     "db_file": "data/data.db",
     "table_prefix": "x_",
     "ssl_mode": "prefer"
